@@ -1,0 +1,5 @@
+node_modules
+ormconfig.json
+.env
+.env.development
+.env.local
